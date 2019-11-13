@@ -1,4 +1,4 @@
-Falistan, online fortune-telling application. Although it is currently under development, you can install and test it on your device. You can log in with Google and Facebook, follow the instructions and send your fortune. Its infrastructure includes React Native, Javascript and Firebase.
+<li>Falistan, online fortune-telling application. Although it is currently under development, you can install and test it on your device. You can log in with Google and Facebook, follow the instructions and send your fortune. Its infrastructure includes React Native, Javascript and Firebase.
 
 Scratch game is a scratch-style game. Slowly scraping the blue area on the screen in the game, you are trying to guess what is the image that appears.
 
